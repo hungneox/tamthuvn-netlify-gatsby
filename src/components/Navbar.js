@@ -52,13 +52,22 @@ const Navbar = class extends React.Component {
               <span />
             </div>
           </div>
-          <div id='navMenu' className={`navbar-end ${this.state.navBarActiveClass}`}>
-            <div className='navbar-start has-text-centered'>
+          <div
+            id="navMenu"
+            className={`navbar-menu ${this.state.navBarActiveClass}`}
+          >
+            <div className='navbar-end has-text-centered'>
               <Link className='navbar-item' to='/about'>
                 Giới thiệu
               </Link>
               <Link className='navbar-item' to='/products'>
                 Sản phẩm
+              </Link>
+              <Link className='navbar-item' to='/contact'>
+                Bệnh lý và điều trị
+              </Link>
+              <Link className='navbar-item' to='/contact'>
+                Hướng dẫn cho bệnh nhân
               </Link>
               <Link className='navbar-item' to='/blog'>
                 Blog
@@ -66,19 +75,6 @@ const Navbar = class extends React.Component {
               <Link className='navbar-item' to='/contact'>
                 Liên hệ
               </Link>
-              <Link className='navbar-item' to='/contact/examples'>
-                Form Examples
-              </Link>
-              <a
-                className='navbar-item'
-                href='https://github.com/netlify-templates/gatsby-starter-netlify-cms'
-                target='_blank'
-                rel='noopener noreferrer'
-              >
-                <span className='icon'>
-                  <img src={github} alt='Github' />
-                </span>
-              </a>
             </div>
           </div>
         </div>
