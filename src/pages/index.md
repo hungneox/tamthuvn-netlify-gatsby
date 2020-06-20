@@ -1,16 +1,13 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Công ty XNK Thiết Bị Y-Tế Tâm Thu
+image: /img/home-jumpotron.jpg
+heading: Công ty XNK Thiết Bị Y-Tế Tâm Thu
+subheading: Phân phối độc quyền các thiết bị điều trị nhịp tim
 mainpitch:
-  title: Why Kaldi
+  title: Tại sao chọn chúng tôi
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Công ty Tâm Thu, nhà phân phối độc quyền các thiết bị điều trị nhịp tim của công ty Biotronik, CHLB Đức và một số công ty khác.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -20,31 +17,16 @@ intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Cám ơn bạn đã đến trang web này của công ty Tâm Thu, nhà phân phối độc quyền các thiết bị điều trị nhịp tim của công ty Biotronik, CHLB Đức và một số công ty khác.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Công ty Tâm Thu và các tiền thân, kể cả công ty Northwest, USA, đã hoạt động liên tục trong lĩnh vực điều trị nhịp tim từ năm 1995. công ty Northwest hiện nay phụ trách phần hỗ trợ kỹ thuật cho công ty Tâm Thu đem các thông tin mới nhất trong lĩnh vực điều trị nhịp tim về các trang web trong website này, và khi cần sẽ là cầu nối từ đội ngũ kỹ thuật viên ở Việt Nam với các kỹ sư thiết kế của Biotronik và với các bác sĩ trên thế giới.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Công ty Northwest do một tiến sĩ kỹ sư điện và y-sinh với kinh nghiệm thiết kế và theo dõi các máy điều trị nhịp tim (máy tạo nhịp, máy phá rung) của Biotronik trên 20 năm.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Công ty Northwest do một tiến sĩ kỹ sư điện và y-sinh với kinh nghiệm thiết kế và theo dõi các máy điều trị nhịp tim (máy tạo nhịp, máy phá rung) của Biotronik trên 20 năm.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
