@@ -15,16 +15,16 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/home/figure1.png
       text: >
         Cám ơn bạn đã đến trang web này của công ty Tâm Thu, nhà phân phối độc quyền các thiết bị điều trị nhịp tim của công ty Biotronik, CHLB Đức và một số công ty khác.
-    - image: /img/coffee-gear.png
+    - image: /img/home/figure2.png
       text: >
         Công ty Tâm Thu và các tiền thân, kể cả công ty Northwest, USA, đã hoạt động liên tục trong lĩnh vực điều trị nhịp tim từ năm 1995.
-    - image: /img/tutorials.png
+    - image: /img/home/figure3.png
       text: >
         Công ty Northwest hiện nay phụ trách phần hỗ trợ kỹ thuật cho công ty Tâm Thu đem các thông tin mới nhất trong lĩnh vực điều trị nhịp tim về các trang web trong website này, và khi cần sẽ là cầu nối từ đội ngũ kỹ thuật viên ở Việt Nam với các kỹ sư thiết kế của Biotronik và với các bác sĩ trên thế giới.
-    - image: /img/meeting-space.png
+    - image: /img/home/figure4.png
       text: >
         Công ty Northwest do một tiến sĩ kỹ sư điện và y-sinh với kinh nghiệm thiết kế và theo dõi các máy điều trị nhịp tim (máy tạo nhịp, máy phá rung) của Biotronik trên 20 năm.
   heading: What we offer
