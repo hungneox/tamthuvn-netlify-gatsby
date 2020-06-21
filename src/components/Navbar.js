@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import github from '../img/github-icon.svg';
 import logo from '../img/tamthuvn-logo.svg';
 
 const Navbar = class extends React.Component {
@@ -63,14 +62,14 @@ const Navbar = class extends React.Component {
               <Link className='navbar-item' to='/products'>
                 Sản phẩm
               </Link>
-              <Link className='navbar-item' to='/contact'>
+              <Link className='navbar-item' to='/products'>
                 Bệnh lý và điều trị
               </Link>
-              <Link className='navbar-item' to='/contact'>
+              <Link className='navbar-item' to='/blog'>
                 Hướng dẫn cho bệnh nhân
               </Link>
               <Link className='navbar-item' to='/blog'>
-                Blog
+                Thông tin
               </Link>
               <Link className='navbar-item' to='/contact'>
                 Liên hệ
