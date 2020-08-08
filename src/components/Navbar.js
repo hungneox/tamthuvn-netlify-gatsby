@@ -51,17 +51,34 @@ const Navbar = class extends React.Component {
               <span />
             </div>
           </div>
-          <div
-            id="navMenu"
-            className={`navbar-menu ${this.state.navBarActiveClass}`}
-          >
+          <div id='navMenu' className={`navbar-menu ${this.state.navBarActiveClass}`}>
             <div className='navbar-end has-text-centered'>
               <Link className='navbar-item' to='/about'>
                 Giới thiệu
               </Link>
-              <Link className='navbar-item' to='/products'>
-                Sản phẩm
-              </Link>
+
+              <div class='navbar-item has-dropdown is-hoverable'>
+                <a class='navbar-link'>Sản phẩm</a>
+
+                <div class='navbar-dropdown'>
+                  <Link className='navbar-item' to='/products'>
+                    Máy tạo nhịp tim
+                  </Link>
+                  <Link className='navbar-item' to='/products'>
+                    Máy tạo nhịp tạm thời
+                  </Link>
+                  <Link className='navbar-item' to='/products'>
+                    Máy phá rung tự động
+                  </Link>
+                  <Link className='navbar-item' to='/products'>
+                    Máy thăm do điện sinh lý tim
+                  </Link>
+                  <Link className='navbar-item' to='/products'>
+                    Máy dự đoán đột tử
+                  </Link>
+                </div>
+              </div>
+
               <Link className='navbar-item' to='/products'>
                 Bệnh lý và điều trị
               </Link>
