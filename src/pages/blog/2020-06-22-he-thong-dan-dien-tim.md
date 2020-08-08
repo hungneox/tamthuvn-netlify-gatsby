@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: Hệ thống dẫn điện tim
 date: 2020-06-22T17:02:14.068Z
+lang: vi
 description: Hệ thống dẫn điện tim
 featuredpost: true
 featuredimage: /img/image-5018-.png

@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Tam Thu | Thiet Bi Y Te',
     description:
       'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
   },
@@ -65,6 +65,19 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
+    {
+      resolve: `gatsby-plugin-intl`,
+      options: {
+        // Directory with the strings JSON
+        path: `${__dirname}/src/intl`,
+        // Supported languages
+        languages: [`vi`, `en`],
+        // Default site language
+        defaultLanguage: `vi`,
+        // Redirects to `/vi` in the route `/`
+        redirect: false,
+      },
+    },
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
-}
+};
