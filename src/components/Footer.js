@@ -49,7 +49,7 @@ const Footer = class extends React.Component {
                     <li className='navbar-item'>39 Nguyễn Thị Diệu, P6, Q3, TP. HCM</li>
                     <li className='navbar-item'>ĐT: 028 39326 240</li>
                     <li className='navbar-item'>Fax: 028 39326 245</li>
-                    <li className='navbar-item'>lienlac@tamtuvn.com</li>
+                    <li className='navbar-item'><a href="mailto:lienlac@tamtuvn.com">lienlac@tamtuvn.com</a></li>
                   </ul>
                 </section>
               </div>
