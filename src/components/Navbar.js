@@ -78,7 +78,7 @@ const Navbar = (props) => {
             <Link className='navbar-item' to='/contact'>
               <FormattedMessage id='navigation.contact' />
             </Link>
-            <Link to={intl.locale !== 'vi' ? '/' : 'en'} className='navbar-item'>
+            <Link to={intl.locale !== 'vi' ? '/' : '/en'} className='navbar-item'>
               {intl.locale !== 'vi' ? 'Tiếng Việt' : 'English'}
             </Link>
           </div>
