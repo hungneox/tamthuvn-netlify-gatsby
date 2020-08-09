@@ -1,37 +1,22 @@
-import React from 'react';
+import React, {useState, useEffect} from 'react';
 import { Link } from 'gatsby';
+import { useIntl } from 'gatsby-plugin-intl';
 import logo from '../img/tamthuvn-logo.svg';
 
-const Navbar = class extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      active: false,
-      navBarActiveClass: '',
-    };
-  }
+const Navbar = (props) => {
+  const intl = useIntl();
+  const [active, setActive] = useState(false);
+  const [navBarActiveClass, setNavBarActiveClass] = useState('');
 
-  toggleHamburger = () => {
+  useEffect(() => {
+    setNavBarActiveClass(active ? 'is-active' : '');
+  }, [active]);
+
+  function toggleHamburger() {
     // toggle the active boolean in the state
-    this.setState(
-      {
-        active: !this.state.active,
-      },
-      // after state has been updated,
-      () => {
-        // set the class in state for the navbar accordingly
-        this.state.active
-          ? this.setState({
-              navBarActiveClass: 'is-active',
-            })
-          : this.setState({
-              navBarActiveClass: '',
-            });
-      }
-    );
+    setActive(!active);
   };
 
-  render() {
     return (
       <nav className='navbar is-transparent' role='navigation' aria-label='main-navigation'>
         <div className='container'>
@@ -42,16 +27,16 @@ const Navbar = class extends React.Component {
 
             {/* Hamburger menu */}
             <div
-              className={`navbar-burger burger ${this.state.navBarActiveClass}`}
+              className={`navbar-burger burger ${navBarActiveClass}`}
               data-target='navMenu'
-              onClick={() => this.toggleHamburger()}
+              onClick={() => toggleHamburger()}
             >
               <span />
               <span />
               <span />
             </div>
           </div>
-          <div id='navMenu' className={`navbar-menu ${this.state.navBarActiveClass}`}>
+          <div id='navMenu' className={`navbar-menu ${navBarActiveClass}`}>
             <div className='navbar-end has-text-centered'>
               <Link className='navbar-item' to='/about'>
                 Giới thiệu
@@ -82,7 +67,7 @@ const Navbar = class extends React.Component {
               <Link className='navbar-item' to='/products'>
                 Bệnh lý và điều trị
               </Link>
-              <Link className='navbar-item' to='/blog'>
+              <Link className='navbar-item' to='/handbook'>
                 Hướng dẫn cho bệnh nhân
               </Link>
               <Link className='navbar-item' to='/blog'>
@@ -91,12 +76,14 @@ const Navbar = class extends React.Component {
               <Link className='navbar-item' to='/contact'>
                 Liên hệ
               </Link>
+              <Link to={intl.locale !== 'vi' ? '/' : 'en'} className='navbar-item'>
+                {intl.locale !== 'vi' ? 'Tiếng Việt' : 'English'}
+              </Link>
             </div>
           </div>
         </div>
       </nav>
     );
-  }
 };
 
 export default Navbar;

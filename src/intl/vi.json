@@ -1,1 +1,8 @@
-{}
+{
+    "navigation" : {
+        "home" : "Trang chủ",
+        "about" : "Giới thiệu",
+        "products": "Sản phẩm",
+        "contact" : "Liên hệ"
+    }
+}
