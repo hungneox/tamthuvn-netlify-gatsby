@@ -1,8 +1,17 @@
 {
-    "navigation" : {
-        "home" : "Home",
-        "about" : "About",
-        "products": "Products",
-        "contact" : "Contact"
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "info": "Information",
+    "product": "Products",
+    "manual": "Patient manuals",
+    "contact": "Contact",
+    "products": {
+        "pacemaker": "Pacemaker",
+        "temporary_pacemaker": "Temporary Pacemaker",
+        "implantable_defibrillator": "Implantable Defibrillator",
+        "electro_physiology": "Electro Physiology",
+        "hear_t_wave": "MicroVolt T-wave Alternans"
     }
+  }
 }

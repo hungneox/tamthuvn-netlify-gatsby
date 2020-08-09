@@ -7,7 +7,7 @@ import PreviewCompatibleImage from './PreviewCompatibleImage';
 const BlogRoll = ({ data }) => {
   // Internationalization
   const intl = useIntl();
-  const locale = intl.locale !== 'vi' ? `/${intl.locale}` : '';
+  // const locale = intl.locale !== 'vi' ? `/${intl.locale}` : '';
   const { edges: posts } = data.allMarkdownRemark;
 
   // Filtering posts by locale

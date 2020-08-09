@@ -1,6 +1,6 @@
 ---
 templateKey: 'about-page'
-path: /handbook
+path: /manual
 title: Cẩm nang dành cho bệnh nhân
 image: /img/jumbotron.jpg
 ---

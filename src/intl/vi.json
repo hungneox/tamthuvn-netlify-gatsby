@@ -1,8 +1,17 @@
 {
-    "navigation" : {
-        "home" : "Trang chủ",
-        "about" : "Giới thiệu",
-        "products": "Sản phẩm",
-        "contact" : "Liên hệ"
+  "navigation": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "info": "Thông tin",
+    "product": "Sản phẩm",
+    "manual": "Cẩm nang cho bệnh nhân",
+    "contact": "Liên hệ",
+    "products": {
+        "pacemaker": "Máy tạo nhịp tim",
+        "temporary_pacemaker": "Máy tạo nhịp tạm thời",
+        "implantable_defibrillator": "Máy phá rung tự động",
+        "electro_physiology": "Máy thăm đo điện sinh lý tim",
+        "hear_t_wave": "Máy dự đoán đột tử"
     }
+  }
 }
