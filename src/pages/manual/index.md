@@ -1,7 +1,7 @@
 ---
 templateKey: 'about-page'
 path: /manual
-title: Cẩm nang dành cho bệnh nhân'
+title: Cẩm nang dành cho bệnh nhân
 ---
 
 Để được nhận các quyển cẩm nang hay hướng dẫn dưới đây tiếng Việt, xin liên lạc với đại diện công ty theo địa chỉ email lienlac@tamthuvn.com. Xin vui lòng cung cấp cho chúng tôi một vài thông tin cá nhân như: tên, địa chỉ và số điện thoại. Chúng tôi xin bảo đảm mọi thông tin cá nhân sẽ được bảo mật. Ngoài ra nếu cần thêm thông tin xin hãy liên lạc với chúng tôi.
