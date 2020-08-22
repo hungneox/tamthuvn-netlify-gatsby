@@ -48,19 +48,19 @@ const Navbar = (props) => {
               </a>
 
               <div class='navbar-dropdown'>
-                <Link className='navbar-item' to='/products'>
+                <Link className='navbar-item' to='/products/may-tao-nhip-tim'>
                   <FormattedMessage id='navigation.products.pacemaker' />
                 </Link>
-                <Link className='navbar-item' to='/products'>
+                <Link className='navbar-item' to='/products/may-tao-nhip-tim-tam-thoi'>
                   <FormattedMessage id='navigation.products.temporary_pacemaker' />
                 </Link>
-                <Link className='navbar-item' to='/products'>
+                <Link className='navbar-item' to='/products/may-pha-rung-tu-dong'>
                   <FormattedMessage id='navigation.products.implantable_defibrillator' />
                 </Link>
-                <Link className='navbar-item' to='/products'>
+                <Link className='navbar-item' to='/products/may-tham-do-dien-sinh-ly-tim'>
                   <FormattedMessage id='navigation.products.electro_physiology' />
                 </Link>
-                <Link className='navbar-item' to='/products'>
+                <Link className='navbar-item' to='/products/may-du-doan-dot-tu'>
                   <FormattedMessage id='navigation.products.hear_t_wave' />
                 </Link>
               </div>
