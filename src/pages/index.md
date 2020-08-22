@@ -8,11 +8,8 @@ mainpitch:
   title: Tại sao chọn chúng tôi
   description: >
     Công ty Tâm Thu, nhà phân phối độc quyền các thiết bị điều trị nhịp tim của công ty Biotronik, CHLB Đức và một số công ty khác.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+# description: >-
+#   ...
 intro:
   blurbs:
     - image: /img/home/figure1.png
