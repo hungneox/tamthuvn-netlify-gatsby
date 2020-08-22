@@ -1,19 +1,38 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: Giới thiệu
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Cám ơn bạn đã đến trang web này của Cty Tâm Thu, nhà phân phối độc quyền các thiết bị điều trị nhịp tim của Cty Biotronik, CHLB Đưc và một số công ty khác. Cty Tâm Thu và các tiền thân, kể cả Cty Northwest, USA, đã hoạt động liên tục trong lãnh vực điều trị nhịp tim từ năm 1995. Cty Northwest hiện nay phụ trách phần hỗ trợ kỹ thuật cho Cty Tâm Thu đem các thông tin mới nhất trong lĩnh vực điều trị nhịp tim về các trang web trong website này, và khi cần sẽ là cầu nối từ đội ngũ kỹ thuật viên ở VN với các kỹ sư thiết kế của Biotronik và với các BS trên thế giới. Cty Northwest do một tiến sĩ kỹ sư điện và y-sinh với kinh nghiệm thiết kế và theo dõi các máy điều trị nhịp tim (máy tạo nhịp, máy phá rung) của Biotronik trên 20 năm.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Cty Northwest phụ trách thiết kế và cập nhật website này.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Cty Tâm Thu đang cung cấp các thiết bị điều trị nhịp tim cho trên 30 bệnh viện ở trên toàn Việt Nam.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+- **Bến Cát**, Bình Dương: BV Đa Khoa Mỹ Phước
+- **Biên Hòa**: B.V. Đa Khoa tỉnh Đồng Nai, B.V. Thống Nhất Đồng Nai
+- **Buôn Ma Thuột**: BV ĐK Đắc Lắk
+- **Cần Thơ**: BV ĐK Thành Phố Cần Thơ, BV TW Cần Thơ, BV Đột Quỵ Tim Mạch Cần Thơ.
+- **Đà Nẵng**:  BV Đa Khoa Đà Nẵng, BV Hoàn Mỹ, BV C, BV Vinmec
+- **Đông Hà**: BV ĐK Quảng Trị
+- **Đồng Hới**: BV Hữu nghị Việt Nam - Cuba 
+- **Hạ Long**: BV Bãi Cháy, BV ĐK tỉnh Quảng Ninh
+- **Hà Nội**: Viện Tim Mạch Quốc Gia (Bạch Mai), B.V. 103, BV 19-8, B.V. 108, B.V. Bưu Điện, BV Nhi TW, BV Việt Pháp, B.V. Đại Học Y Hà Nội, BV Hữu Nghị - Việt Xô, BV Đông Đô, BV Vinmec
+- **Hải Phòng**: BV Việt-Tiệp
+- **Tp Hồ Chí Minh**: BV Chợ Rẩy, BV Nhân Dân 115, Viện Tim TPHCM, BV Đại Học Y Dược, BV Nguyễn Tri Phương, BV Nhi Đồng 1, BV Nhi Đồng 2, BV Nhi Đồng - Thành Phố, BV Nhân Dân Gia Định, BV 175, BV ĐK Khu Vực Thủ Đức,  BV Thống Nhất , BV Hoàn Mỹ, BV Triều An, BV Tim Mạch Tâm Đức, BV Pháp-Việt, BV ĐK - Quận Thủ Đức, BV ĐK Quận 2, BV Quận 11, BV DK Xuyên Á
+- **Huế**: BV TW Huế, BV Đại Học Y Dược Huế
+- **Long Xuyên**: BV Tim Mạch An Giang
+- **Nha Trang**: BV Đa Khoa tỉnh Khánh Hòa
+- **Quy Nhơn**: BV Đa Khoa tỉnh Bình Định
+- **Quảng Trị**: BV Đa Khoa tỉnh Quảng Trị
+- **Rạch Giá**: BV Đa Khoa Kiêng Giang
+- **Sóc Trăng**: BV ĐK tỉnh Sóc Trăng
+- **Tam Ky, Quảng Nam**:  BV ĐK tỉnh Quảng Nam, BV TW Quảng Nam.
+- **Tân An**: BV ĐK tỉnh Long An
+- **Thái Nguyên**: BV ĐK Thái Nguyên
+- **Thanh Hóa**: BV Đa Khoa tỉnh Thanh Hóa
+- **Việt Trì**: BV ĐK Phú Thọ
+- **Vinh**:  BV Hữu Nghị Đa Khoa Nghệ An
+
+Cập nhật: 05/2018
