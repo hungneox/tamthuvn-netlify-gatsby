@@ -36,6 +36,7 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
             justifyContent: 'space-around',
             alignItems: 'left',
             flexDirection: 'column',
+            textAlign: 'center'
           }}
         >
           <h1

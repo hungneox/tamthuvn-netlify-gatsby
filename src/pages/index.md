@@ -3,7 +3,7 @@ templateKey: index-page
 title: Công ty XNK Thiết Bị Y-Tế Tâm Thu
 image: /img/home-jumpotron.jpg
 heading: Công ty XNK Thiết Bị Y-Tế Tâm Thu
-subheading: Phân phối độc quyền các thiết bị điều trị nhịp tim
+subheading: Phân phối độc quyền các thiết bị điều trị nhịp tim của BIOTRONIK SE & Co.KG – CHLB Đức.
 mainpitch:
   title: Tại sao chọn chúng tôi
   description: >
