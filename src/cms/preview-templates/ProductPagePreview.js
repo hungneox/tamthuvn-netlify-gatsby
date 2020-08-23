@@ -5,7 +5,7 @@ import { ProductPostTemplate } from '../../templates/product-post'
 const ProductPreview = ({ entry, widgetFor }) => {
   const tags = entry.getIn(['data', 'tags'])
   return (
-    <ProductTemplate
+    <ProductPostTemplate
       content={widgetFor('body')}
       description={entry.getIn(['data', 'description'])}
       tags={tags && tags.toJS()}
