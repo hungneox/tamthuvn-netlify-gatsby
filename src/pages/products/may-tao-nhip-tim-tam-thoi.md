@@ -4,6 +4,7 @@ title: Máy tạo nhịp tim tạm thời
 date: 2020-06-22T17:02:14.068Z
 lang: vi
 description: Máy tạo nhịp tim tạm thời
+featuredpost: false
 tags:
   - Máy tạo nhịp tim
 ---

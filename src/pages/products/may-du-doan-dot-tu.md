@@ -3,6 +3,7 @@ templateKey: product-post
 title: Máy dự đoán đột tử
 date: 2020-06-22T17:02:14.068Z
 lang: vi
+featuredpost: false
 description: Máy dự đoán đột tử
 tags:
   - Máy tạo nhịp tim

@@ -2,8 +2,10 @@
 templateKey: product-post
 title: Máy thăm dò điện sinh lý tim
 date: 2020-06-22T17:02:14.068Z
-lang: vi
 description: Máy thăm dò điện sinh lý tim
+featuredpost: true
+featuredimage: /img/products-grid2.jpg
+lang: vi
 tags:
   - Máy tạo nhịp tim
 ---

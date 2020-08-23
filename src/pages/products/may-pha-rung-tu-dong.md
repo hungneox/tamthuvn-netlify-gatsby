@@ -4,6 +4,7 @@ title: Máy phá rung tự động
 date: 2020-06-22T17:02:14.068Z
 lang: vi
 description: Máy phá rung tự động
+featuredpost: false
 tags:
   - Máy tạo nhịp tim
 ---
