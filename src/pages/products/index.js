@@ -22,7 +22,7 @@ export default class ProductsIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            Latest Stories
+            Danh sách sản phẩm
           </h1>
         </div>
         <section className="section">
