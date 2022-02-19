@@ -1,6 +1,7 @@
 ---
 templateKey: 'about-page'
-path: /manual
+path: /cam-nang
+lang: vi
 title: Cẩm nang dành cho bệnh nhân
 ---
 
