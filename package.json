@@ -35,6 +35,9 @@
   "keywords": [
     "gatsby"
   ],
+  "resolutions": {
+    "remark-mdx": "1.6.22"
+  },
   "license": "MIT",
   "main": "n/a",
   "scripts": {
